@@ -1,0 +1,1 @@
+这是一个测试使用springcloud config配置文件仓库
